@@ -77,7 +77,7 @@ const propiedades_venta = [
     pets: false
     },
     {
-    nombre: 'Condominio moderno en zona residencial',
+    nombre: 'Apartamento bien ubicado',
     src: 'https://d1cfu8v5n1wsm.cloudfront.net/toctoc/fotos/20210330/1705717/n_wm_2021080531277342083.webp',
     descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial.',
     ubicacion: '789 Residential Lane, Suburbia, CA 12345',
@@ -92,7 +92,7 @@ const propiedades_venta = [
     pets: true
     },
     {
-    nombre: 'Condominio moderno en zona residencial',
+    nombre: 'Departamento con áreas verdes',
     src: 'https://d1cfu8v5n1wsm.cloudfront.net/toctoc/fotos/20200305/1436177/n_wm_2021070253340574499.webp',
     descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial.',
     ubicacion: '789 Residential Lane, Suburbia, CA 12345',
@@ -107,7 +107,7 @@ const propiedades_venta = [
     pets: true
     },
     {
-    nombre: 'Condominio moderno en zona residencial',
+    nombre: 'Departamento a pasos del metro',
     src: 'https://d1cfu8v5n1wsm.cloudfront.net/toctoc/fotos/20191213/1379210/n_wm_2022061402117801443.webp',
     descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial.',
     ubicacion: '789 Residential Lane, Suburbia, CA 12345',
@@ -122,7 +122,7 @@ const propiedades_venta = [
     pets: true
     },
     {
-    nombre: 'Condominio moderno en zona residencial',
+    nombre: 'Apartamento silencioso',
     src: 'https://images.adsttc.com/media/images/5f27/27fa/b357/653f/3b00/08bf/slideshow/00.jpg?1596401649',
     descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial.',
     ubicacion: '789 Residential Lane, Suburbia, CA 12345',

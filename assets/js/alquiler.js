@@ -60,7 +60,7 @@ const propiedades_alquiler = [
     pets: true
     },
     {
-    nombre: 'Condominio moderno en zona residencial',
+    nombre: 'Departamento tranquilo',
     src: 'https://magentostorage.s3.us-east-1.amazonaws.com/mageplaza/blog/post/c/u/cuanto_mide_departamento_ideal.jpg',
     descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial.',
     ubicacion: '789 Residential Lane, Suburbia, CA 12345',
@@ -75,7 +75,7 @@ const propiedades_alquiler = [
     pets: true
     },
     {
-    nombre: 'Condominio moderno en zona residencial',
+    nombre: 'Departamento con buena ubicación',
     src: 'https://www.iaconcagua.com/Multimedia/posts/departamentos-en-las-condes-edificio-trento.w1600.jpg',
     descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial.',
     ubicacion: '789 Residential Lane, Suburbia, CA 12345',
@@ -90,7 +90,7 @@ const propiedades_alquiler = [
     pets: false
     },
     {
-    nombre: 'Condominio moderno en zona residencial',
+    nombre: 'Apartamento espacioso',
     src: 'https://assets.easybroker.com/property_images/3063081/48868419/EB-KT3081.jpg?version=1656019645',
     descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial.',
     ubicacion: '789 Residential Lane, Suburbia, CA 12345',
@@ -120,9 +120,9 @@ const propiedades_alquiler = [
     pets: false
     },
     {
-    nombre: 'Condominio moderno en zona residencial',
+    nombre: 'Departamento moderno',
     src: 'https://investo.com.mx/wp-content/uploads/2021/12/Amaralda-Departamentos-Torre.jpg',
-    descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial.',
+    descripcion: 'Este elegante Departamento está ubicado en una tranquila zona residencial.',
     ubicacion: '789 Residential Lane, Suburbia, CA 12345',
     habitaciones: 2,
     baños: 2,
